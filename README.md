@@ -29,6 +29,7 @@ I am a Computer Science and Applied Mathematics double major with interests in b
 
 ## Selected Projects
 - **Home Credit Default Prediction Audit** (https://github.com/JaggedSpace/Home_Credit_Default_Risk_Audit)
+  
    Audit of a well-performing Kaggle competition submission to see if it discriminates against certain demographics.
 - **[Project Name](link)**: Mention algorithms, mathematical techniques, or system design decisions.
 - **[Project Name](link)**: Highlight performance, scalability, or theoretical grounding if applicable.
