@@ -31,17 +31,23 @@ I am a Computer Science and Applied Mathematics double major with interests in b
 - **Home Credit Default Prediction Audit** (https://github.com/JaggedSpace/Home_Credit_Default_Risk_Audit)
   
    Audit of a well-performing Kaggle competition submission to see if it discriminates against certain demographics.
-- **[Project Name](link)**: Mention algorithms, mathematical techniques, or system design decisions.
-- **[Project Name](link)**: Highlight performance, scalability, or theoretical grounding if applicable.
+  
+- **Healthy Recipe Provider Test Website**(https://jaggedspace.github.io/Final_Website/)
+
+  Test website for a service of recommending healthier food options.
+
+  
+- **Spotify Playlist Creator Interface** (https://github.com/JaggedSpace/Spotify-Playlist-Creator-Interface)
+
+  Separate Spotify page dedicated to quickly developing playlists with ready recommendations based on last song added and whole album vibe.
 
 ---
 
 ## GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<your_username>&show_icons=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaggedSpace&show_icons=true&hide_title=true)
 
 ---
 
 ## Contact
-- Email: <your email>
-- LinkedIn: <your LinkedIn URL>
-- Portfolio or Website: <optional>
+- Email: nicolas.ekstrand@gmail.com
+- LinkedIn: https://www.linkedin.com/in/nicolas-ekstrand-a4899a30a/
