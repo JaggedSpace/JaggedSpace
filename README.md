@@ -44,7 +44,7 @@ I am a Computer Science and Applied Mathematics double major with interests in b
 ---
 
 ## GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<JaggedSpace>&show_icons=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaggedSpace&show_icons=true&hide_title=true)
 
 ---
 
