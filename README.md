@@ -36,10 +36,19 @@ I am a Computer Science and Applied Mathematics double major with interests in b
 
   Test website for a service of recommending healthier food options.
 
+- **Spotify Song Recommendation Model** (https://github.com/JaggedSpace/Spotify_Recommendation_Notebook/blob/main/spotify_song_analysis.ipynb)
+
+  My own spin on the spotify Song Recommendation system via feature comparisons from the API
+
   
 - **Spotify Playlist Creator Interface** (https://github.com/JaggedSpace/Spotify-Playlist-Creator-Interface)
 
   Separate Spotify page dedicated to quickly developing playlists with ready recommendations based on last song added and whole album vibe.
+
+- **WashUX Website** (https://github.com/JaggedSpace/WashUX-Website)
+
+  Website for WashUX, a tech design-consulting club that I'm the vice president of
+
 
 ---
 
