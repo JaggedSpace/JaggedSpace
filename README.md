@@ -27,7 +27,7 @@ I am a Computer Science and Applied Mathematics double major with interests in b
 
 ---
 
-## Selected Projects
+## Projects
 - **Home Credit Default Prediction Audit** (https://github.com/JaggedSpace/Home_Credit_Default_Risk_Audit)
   
    Audit of a well-performing Kaggle competition submission to see if it discriminates against certain demographics.
@@ -57,6 +57,6 @@ I am a Computer Science and Applied Mathematics double major with interests in b
 
 ---
 
-## Contact
+## Contacts
 - Email: nicolas.ekstrand@gmail.com
 - LinkedIn: https://www.linkedin.com/in/nicolas-ekstrand-a4899a30a/
