@@ -7,23 +7,26 @@ I am a Computer Science and Applied Mathematics double major with interests in b
 ## About Me
 - Degree: B.S. in Computer Science and B.A. in Applied Mathematics
 - Academic interests: Linear Algebra, machine learning, optimization
-- Technical focus: Object-Oriented Code, Reducing Runtimes.
-- Currently learning: Linear Algebra, Cybersecurity, Videogame Programming
+- Technical focus: Object-Oriented Code, Runtime efficiency, Human-Computer Interaction.
+- Currently learning: Linear Algebra, Cybersecurity, Unity, Unreal Engine
 
 ---
 
 ## Technical Skills
 
 ### Programming Languages
-- Python, C++, Java, JavaScript, HTML, IPYNB
+- Python, C++, Java, JavaScript, HTML, IPYNB, 
 
 ### Tools and Technologies
 - Git, NumPy, Pandas, Cursor, Unreal Engine 5
 
 ### Mathematics
 - Linear Algebra
-- Optimization
+- Matrix Algebra
 - Numerical Methods
+- Logic and Discrete Math
+- Multivariable Calculus
+- Foundations for Higher Math
 
 ---
 
@@ -49,11 +52,9 @@ I am a Computer Science and Applied Mathematics double major with interests in b
 
   Website for WashUX, a tech design-consulting club that I'm the vice president of
 
+- **Current Project: LateX Auto Writer**
+  Algorithm similar to Cursor auto-write for LateX files for my linear algebra writeups
 
----
-
-## GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaggedSpace&show_icons=true&hide_title=true)
 
 ---
 
