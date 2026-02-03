@@ -48,7 +48,7 @@ I am a Computer Science and Applied Mathematics double major with interests in b
 
   Separate Spotify page dedicated to quickly developing playlists with ready recommendations based on last song added and whole album vibe.
 
-- **WashUX Website** (https://jaggedspace.github.io/WashUX-Website/)
+- **WashUX Website** (https://washux.com/)
 
   Website for WashUX, a tech design-consulting club that I'm the vice president of
 
